@@ -9,7 +9,7 @@ body {
  * - ナビゲーションバーと画像一覧の間のスペースをあけるため、paddingを利用する
  */
 .img-gallery {
-    padding: 25px 0;
+    padding-top: 25px;
 }
 
 /**
@@ -18,7 +18,7 @@ body {
  */
 .img-title {
     text-align: center;
-    margin: 10 0;
+    margin: 10px 0;
 }
 
 /**
